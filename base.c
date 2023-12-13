@@ -9,5 +9,6 @@ int main(void)
 	_getch();
 	system("cls");
 
+	puts("매장 이용은 1번, 포장은 2번>");
 	return 0;
 }
